@@ -98,7 +98,7 @@ fig.tight_layout()
 
 plt.show()
 ```
-![Content Type Distribution (Movies vs. TV Shows)](image/Content_Type_Distribution.png)
+![Content Type Distribution (Movies vs. TV Shows)](images/Content_Type_Distribution.png)
 
 *Bar Chart shows the absolute volume of titles for each category. Pie Chart shows the relative proportion of each content type within the whole library*
 
