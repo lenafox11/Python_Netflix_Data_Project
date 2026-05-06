@@ -127,7 +127,7 @@ plt.grid(True, axis='y', linestyle='--', alpha=0.5)
 
 plt.show()
 ```
-![Movies vs TV Shows Over Time](images\Content_Added_Over_Time.png)
+![Movies vs TV Shows Over Time](images/Content_Added_Over_Time.png)
 *This bar chart tracks the volume of titles added to a library based on their release year from 2008 to 2021*
 ### Results:
 - **Stagnant Start (2008–2013):** For several years, the number of titles added remained near zero, indicating a very small or inactive catalog during this period.
@@ -166,7 +166,7 @@ fig.tight_layout()
 
 plt.show()
 ```
-![Content Of Type Added Over Time](images\Type_of_Content_Added_Over_Time.png)
+![Content Of Type Added Over Time](images/Type_of_Content_Added_Over_Time.png)
 
 *This line graph tracks the number of Movies and TV Shows added to the Netflix platform between 2008 and 2021.*
 ### Results:
@@ -191,7 +191,7 @@ plt.grid(True, axis='y', linestyle='--', alpha=0.5)
 
 plt.show()
 ```
-![Release Year Distribution](images\Release_Year_Distribution.png)
+![Release Year Distribution](images/Release_Year_Distribution.png)
 *This chart is a histogram with an overlaid trend line (density plot) that shows how many titles on a platform were originally released in different years.*
 ### Results:
 - **Modern Focus:** The data is heavily "left-skewed," meaning the collection is overwhelmingly dominated by movies and shows released in the last 10 to 15 years.
@@ -214,7 +214,7 @@ sns.despine()
 plt.tight_layout()
 plt.show()
 ```
-![Top 10 Countries by Content](images\Top10_Countries_by_Content.png)
+![Top 10 Countries by Content](images/Top10_Countries_by_Content.png)
 *This horizontal bar chart, illustrates which nations have produced the highest number of titles available on the platform.*
 ### Results:
 - **U.S. Dominance:** The platform's library is heavily Western-centric, specifically favoring American productions.
@@ -247,7 +247,7 @@ sns.despine()
 plt.tight_layout()
 plt.show()
 ```
-![Content Rating Distribution](images\Content_Rating_Distribution.png)
+![Content Rating Distribution](images/Content_Rating_Distribution.png)
 *This image contains two charts that provide a breakdown of the platform's library based on maturity ratings: a horizontal bar chart for total counts and a pie chart for percentages.*
 ### Results:
 **Content Rating Distribution (Bar Chart)**
@@ -286,7 +286,7 @@ plt.grid(True, axis='y', linestyle='--', alpha=0.5)
 
 plt.show()
 ```
-![Rating vs Content Type](images\Rating_vs_Content_Type.png)
+![Rating vs Content Type](images/Rating_vs_Content_Type.png)
 *This grouped bar chart, titled "Rating vs Content Type," compares the number of Movies (black bars) and TV Shows (red bars) across different maturity ratings*
 ### Results:
 The chart highlights that while the platform is heavily weighted toward mature content (TV-MA/TV-14), it offers a much larger volume of Movies than TV Shows across nearly every rating category.
@@ -308,7 +308,7 @@ sns.despine()
 plt.tight_layout()
 plt.show()
 ```
-![Top 10 Directors ](images\Top10_Directors.png)
+![Top 10 Directors ](images/Top10_Directors.png)
 *This horizontal bar chart, titled "Top 10 Directors," ranks the individuals with the highest number of titles available on the platform*
 ### Results:
 - **The Leader:** Rajiv Chilaka tops the list with exactly 20 titles.
@@ -350,7 +350,7 @@ sns.despine()
 plt.tight_layout()
 plt.show()
 ```
-![Top 10 Genres by Content Count](images\Top10_Genres_by_Content_Type.png)
+![Top 10 Genres by Content Count](images/Top10_Genres_by_Content_Type.png)
 *This horizontal bar chart, titled "Top 10 Genres by Content Count," displays the most common genre categories on the platform based on the number of titles.*
 ### Results:
 - **The Top Three:** Dramas, International Movies leads with 362 titles, followed very closely by Documentaries with 359. Stand-Up Comedy takes the third spot with 334 titles.
@@ -394,7 +394,7 @@ plt.yticks(fontsize=10)
 sns.despine()
 plt.show()
 ```
-![Percentage of Total Content by Genre (Top10)](images\Top10_Genres_Market_Share.png)
+![Percentage of Total Content by Genre (Top10)](images/Top10_Genres_Market_Share.png)
 *This horizontal bar chart, titled "Percentage of Total Content by Genre (Top 10)," breaks down the platform's library by what percentage each top genre represents.*
 ### Results:
 While these are the "Top 10" genres, each individual category actually accounts for a relatively small slice (less than 5%) of the total library. This suggests the platform has a very diverse and fragmented catalog rather than being dominated by just one or two massive genres.
