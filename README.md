@@ -1,3 +1,5 @@
+<img width="772" height="383" alt="Content_Type_Distribution" src="https://github.com/user-attachments/assets/8d099235-4115-42fb-bb6d-df7d21b2881d" />
+<img width="772" height="383" alt="Content_Type_Distribution" src="https://github.com/user-attachments/assets/a1c1decc-a92e-47cf-a682-ce4e32ce24d8" />
 ### Overview¶
 This notebook demonstrates the process of Netflix Data Cleaning, Analysis and Visulization. We'll walk through the following steps:
 ### About Dataset
